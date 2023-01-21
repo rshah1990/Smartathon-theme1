@@ -2,7 +2,7 @@
 
 ## Documentation Link: https://github.com/rshah1990/Smartathon-theme1/blob/main/Hackathon.pdf
 
-## Weights File: 
+## Weights File: https://drive.google.com/file/d/1I0xjJqLrDlgxiieXmQA7j8jSzoaLTogI/view?usp=share_link
 
 ## Project Overview 
 
